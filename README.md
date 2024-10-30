@@ -11,6 +11,9 @@ Topic Identification: Explore the most discussed shows and themes within the Dis
 #### Brand Sentiment:
 
 The analysis revealed that sentiment towards Disney Plus was predominantly positive to neutral, with only a small fraction of tweets expressing negativity. This indicates a favorable perception of the brand among Twitter users. 🌟
+![image](https://github.com/user-attachments/assets/36068f3a-c973-4d31-884d-0bb1e0319976)
+
+
 #### Influencer Engagement:
 
 A notable micro-influencer emerged from the analysis, significantly driving positive discussions around Disney Plus content. Identifying their joining date could provide further insights into their influence trajectory. 🤳
