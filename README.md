@@ -17,12 +17,18 @@ The analysis revealed that sentiment towards Disney Plus was predominantly posit
 #### Influencer Engagement:
 
 A notable micro-influencer emerged from the analysis, significantly driving positive discussions around Disney Plus content. Identifying their joining date could provide further insights into their influence trajectory. 🤳
+![image](https://github.com/user-attachments/assets/36cfb7a5-9474-4397-8dcc-07d5bd7321ac)
+<img width="578" alt="image" src="https://github.com/user-attachments/assets/ff40415a-4be0-49fd-9ccb-db5a178fcff5">
+
+
 #### User Segmentation:
 
 Twitter users were clustered into three distinct segments, highlighting varying engagement levels and behaviors. Interestingly, users who tweeted frequently with many hashtags often received less engagement, while those who used fewer hashtags garnered more retweets and favorites. This finding emphasizes the importance of quality over quantity in engagement strategies. 📊
 #### Prevalent Topics:
 
 Key discussions revolved around popular shows like "The Mandalorian" and various offerings from Marvel Studios, underscoring the competitive nature of the streaming landscape and the audience's interests. 🎬
+![image](https://github.com/user-attachments/assets/059203d6-6447-4b26-b814-1d34ae4442af)
+
 ### 💡 Recommendations
 #### Leverage Micro-Influencers:
 
